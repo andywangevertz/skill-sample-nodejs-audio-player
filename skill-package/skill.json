@@ -19,16 +19,17 @@
       "isAvailableWorldwide": true,
       "locales": {
         "en-US": {
-          "description": "Sample skill using the AudioPlayer interface",
+          "description": "Tastytrade podcast using the AudioPlayer interface",
           "examplePhrases": [
-            "Alexa open audio player sample"
+            "Alexa, play tastytrade",
+            "Alexa, play tt"
           ],
-          "keywords": [],
-          "name": "Audioplayer sample",
-          "summary": "Sample Short Description"
+          "keywords": ["tastytrade", "tt"],
+          "name": "Tastytrade player",
+          "summary": "Alexa Tastytrade player"
         }
       },
-      "testingInstructions": "Sample Testing Instructions."
+      "testingInstructions": "Testing Instructions. Alexa, play tastytrade"
     }
   }
 }
