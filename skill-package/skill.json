@@ -21,8 +21,8 @@
         "en-US": {
           "description": "Tastytrade podcast using the AudioPlayer interface",
           "examplePhrases": [
-            "Alexa, play tastytrade",
-            "Alexa, play tt"
+            "Alexa, start tastytrade audio",
+            "Alexa, play tastytrade audio"
           ],
           "keywords": ["tastytrade", "tt"],
           "name": "Tastytrade player",

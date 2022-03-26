@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "audio player sample",
+      "invocationName": "tasty trade audio player",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
@@ -22,7 +22,9 @@
             "start my audio",
             "play my audio",
             "start audio",
-            "play audio"
+            "play audio",
+            "start tasty trade audio",
+            "play tasty trade audio"
           ]
         },
         {

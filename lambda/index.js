@@ -196,7 +196,7 @@ const PlaybackControllerHandler = {
   async handle(handlerInput) {
     const playbackInfo = await getPlaybackInfo(handlerInput);
     const playBehavior = 'REPLACE_ALL';
-    const podcastUrl = 'https://audio1.maxi80.com';
+    const podcastUrl = 'https://aioo.pw/tastytrade';
     const playbackControllerEventName = handlerInput.requestEnvelope.request.type.split('.')[1];
     let response;
     switch (playbackControllerEventName) {
